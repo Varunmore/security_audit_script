@@ -31,12 +31,3 @@ This Bash script automates security audits and hardening measures on Linux serve
 
 3. Review the output and logs to ensure all security measures are applied.
 
-## Customization
-
-### Custom Security Checks
-
-To add custom security checks, modify the `custom_checks.conf` file:
-```bash
-# Example custom check
-echo "Custom security check here"
-```
